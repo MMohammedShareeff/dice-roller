@@ -1,2 +1,2 @@
 # Flutter
-### flutter practice projects
+### Flutter practice projects
